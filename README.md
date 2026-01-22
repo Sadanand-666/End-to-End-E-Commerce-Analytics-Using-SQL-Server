@@ -2,9 +2,10 @@
 
 ## 📌 Project Overview
 This project analyzes an e-commerce platform using **SQL Server** to uncover insights related to **revenue growth, customer retention, cohort behavior, and customer lifetime value (CLV)**.
-
 The objective is to simulate **real-world data analyst work** by answering business questions using advanced SQL concepts such as **CTEs, window functions, cohort analysis, views, and indexing**.
----
+
+
+
 ## 🎯 Business Objectives
 - Analyze monthly revenue trends and growth
 - Understand new vs repeat customer behavior
@@ -12,7 +13,6 @@ The objective is to simulate **real-world data analyst work** by answering busin
 - Identify high-value customers and products
 - Provide actionable, data-driven business insights
 
----
 
 ## 🗂️ Dataset Description
 
@@ -24,8 +24,6 @@ The dataset represents a simplified e-commerce system and was **synthetically ge
 - **orders** – order-level transaction data
 - **order_items** – product-level order details
 - **products** – product catalog information
-
----
 
 ## 🛠️ Tools & Technologies
 
@@ -40,7 +38,6 @@ The dataset represents a simplified e-commerce system and was **synthetically ge
   - Indexes for performance optimization
   - Aggregations and joins
 
----
 
 ## 📊 Key Analyses Performed
 
@@ -66,7 +63,6 @@ The dataset represents a simplified e-commerce system and was **synthetically ge
 - Top products by revenue contribution
 - Category-level revenue insights
 
----
 
 ## 🧱 Views Created
 
@@ -78,7 +74,6 @@ To improve **readability, reuse, and maintainability**, analysis logic was refac
 - `vw_new_vs_repeat_customers`
 - `vw_customer_lifetime_value`
 
----
 
 ## 📈 Key Business Insights
 
@@ -88,7 +83,6 @@ To improve **readability, reuse, and maintainability**, analysis logic was refac
 - A few top products account for most sales (Pareto effect)
 - Improving early retention can significantly increase long-term revenue
 
----
 
 ## 🧠 Recommendations
 
@@ -97,7 +91,6 @@ To improve **readability, reuse, and maintainability**, analysis logic was refac
 - Target **high-CLV customers** with premium campaigns
 - Prioritize marketing and inventory for top-performing products
 
----
 
 ## ▶️ How to Run This Project
 
@@ -106,7 +99,6 @@ To improve **readability, reuse, and maintainability**, analysis logic was refac
 3. Run analysis queries from `analysis_queries.sql`
 4. Create views using `views.sql`
 
----
 
 ## 📌 Project Outcome
 
@@ -117,4 +109,3 @@ This project demonstrates the ability to:
 - Communicate insights in a business-friendly manner
 - Build production-style, maintainable analytics solutions
 
----
