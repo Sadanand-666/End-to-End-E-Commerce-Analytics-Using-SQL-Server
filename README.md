@@ -1,15 +1,11 @@
 # E-Commerce SQL Analytics: Revenue, Retention & Customer Insights
 
 ## 📌 Project Overview
-
 This project analyzes an e-commerce platform using **SQL Server** to uncover insights related to **revenue growth, customer retention, cohort behavior, and customer lifetime value (CLV)**.
 
 The objective is to simulate **real-world data analyst work** by answering business questions using advanced SQL concepts such as **CTEs, window functions, cohort analysis, views, and indexing**.
-
 ---
-
 ## 🎯 Business Objectives
-
 - Analyze monthly revenue trends and growth
 - Understand new vs repeat customer behavior
 - Measure customer retention using cohort analysis
